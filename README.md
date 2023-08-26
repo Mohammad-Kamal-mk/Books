@@ -1,7 +1,7 @@
 <h1>Books (Farsi)</h1>
 A selection of books/docs I wrote.
 
-<h2>Books (Farsi)</h2>
+<h2>Done! </h2>
 <ol>
   <li> Introduction to Python</li>
   <li> Information Security Roadmap</li>
@@ -13,4 +13,5 @@ A selection of books/docs I wrote.
   <li> Privacy and anonymity Roadmap</li>
   <li> Introduction to GNU/Linux</li>
   <li> Introduction to computer hardware and laptop buying guide :) </li>
+  <li> Introduction to Ponzi scheme </li>
 </ol>
