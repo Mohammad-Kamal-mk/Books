@@ -6,13 +6,14 @@ A selection of books/docs I wrote.
   <li> Introduction to Python (220 pages)</li>
   <li> Information Security Roadmap</li>
   <li> Introduction to Cryptography (120 pages)</li>
+  <li> Introduction to computer hardware and laptop buying guide (114 pages) </li>
 </ol>
+- Total pages: 500 pages 🙂
 
 <h2> Future Works: </h2>
 <ol>
   <li> Privacy and anonymity Roadmap</li>
   <li> Introduction to GNU/Linux</li>
-  <li> Introduction to computer hardware and laptop buying guide :) </li>
   <li> Introduction to Ponzi scheme </li>
 </ol>
 
