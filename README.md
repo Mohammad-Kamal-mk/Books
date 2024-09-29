@@ -8,7 +8,7 @@ A selection of books/docs I wrote.
   <li> Introduction to Cryptography (120 pages)</li>
   <li> Introduction to computer hardware and laptop buying guide (114 pages) </li>
 </ol>
-- Total pages: 500 pages 🙂
+- Total pages: 600 pages 🙂
 
 <h2> Future Works: </h2>
 <ol>
