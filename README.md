@@ -1,23 +1,21 @@
-<h1>Books (Farsi)</h1>
-A selection of books/docs I wrote.
+# Books (Farsi)
+A collection of books/documents I have written.
 
-<h2>Done! </h2>
-<ol>
-  <li> Introduction to Python (360 pages)</li>
-  <li> Information Security Roadmap</li>
-  <li> Introduction to Cryptography (120 pages)</li>
-  <li> Introduction to computer hardware and laptop buying guide (114 pages) </li>
-</ol>
+## Done!
+1. Introduction to Python (360 pages)
+2. Information Security Roadmap
+3. Introduction to Cryptography (120 pages) [^1]
+4. Introduction to Computer Hardware and a Guide to Laptop Selection (114 pages)
+
 - Total pages: 600 pages 🙂
 
-<h2> Future Works: </h2>
-<ol>
-  <li> Online privacy Roadmap</li>
-  <li> Introduction to GNU/Linux</li>
-  <li> Introduction to Ponzi scheme </li>
-</ol>
+## Future Works:
+1. Online Privacy Roadmap
+2. Introduction to GNU/Linux
+3. Introduction to Ponzi Scheme
 
-<h2> Donate </h2>
-To support my works, you can donate me 😃:
-https://zarinp.al/mkamal
+## Donate
+To support my writing, you can make a donation 😃:  
+[https://zarinp.al/mkamal](https://zarinp.al/mkamal)
 
+[^1]: While this book reflects my earlier understanding and may contain some errors, I believe it still offers valuable insights and perspectives worth exploring.
