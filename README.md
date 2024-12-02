@@ -16,6 +16,13 @@ A collection of books/documents I have written.
 
 ## Donate
 To support my writing, you can make a donation 😃:  
-[https://zarinp.al/mkamal](https://zarinp.al/mkamal)
+- Rials: [https://zarinp.al/mkamal](https://zarinp.al/mkamal)
+- Bitcoin (BTC): `bc1qgft7n0d4329999ppgzxgdmlzz6xlem8sywql9c`
+- Ethereum (ETH): `0x5FA4849EeDaAd5714430D82419F725Cc786D8e8c`
+- Dogecoin (DOGE): `DUDNGrYbws6wb3JHMQGYKoNbL27zXR2ik4`
+- TON (TON): `UQC3PZUzDKktxU7ZJcLGiLJ_tEuV3DiwOxivImk3iUnpJIKV`
+- Zcash (ZEC): `t1biyCbuVHZJUbNKe2jgcQhUwQYor2qRoQV`
+- XRP (XRP): `rfFQPrUmNNwm5YwVhGALM9DfCEUgduXBzN`
+- Stellar (XLM): `GDTRRLNCEOEYA6VC4YEWRDARB5OGUAHZLKDYEA3WYZ7VJNQR3IEALERY`
 
 [^1]: While this book reflects my earlier understanding and may contain some errors, I believe it still offers valuable insights and perspectives worth exploring.
