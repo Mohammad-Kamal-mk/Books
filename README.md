@@ -25,4 +25,4 @@ To support my writing, you can make a donation 😃:
 - XRP (XRP): `rfFQPrUmNNwm5YwVhGALM9DfCEUgduXBzN`
 - Stellar (XLM): `GDTRRLNCEOEYA6VC4YEWRDARB5OGUAHZLKDYEA3WYZ7VJNQR3IEALERY`
 
-[^1]: While this book reflects my earlier understanding and may contain some errors, I believe it still offers valuable insights and perspectives worth exploring.
+[^1]: While this book reflects my earlier understanding and may contain some  errors, I believe it still offers valuable insights and perspectives worth exploring. However, it's important to note that cryptography is a complex field, and you should **NOT** take advice from me or anyone who is not a qualified professional. I recommend viewing this document as a good starting point, but please do not rely on the advice or information provided here. Instead, seek out more authoritative sources for guidance in this area.
