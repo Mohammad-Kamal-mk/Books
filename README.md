@@ -2,10 +2,12 @@
 A collection of books/documents I have written.
 
 ## Done!
-1. Introduction to Python (360 pages)
-2. Information Security Roadmap
-3. Introduction to Cryptography (120 pages) [^1]
-4. Introduction to Computer Hardware and a Guide to Laptop Selection (114 pages)
+1. Navigating Privacy Anonymity and Security in the Digital Age (my crowning glory)
+p, li { white-space: pre-wrap; }
+2. Introduction to Python (360 pages)
+3. Information Security Roadmap
+4. Introduction to Cryptography (120 pages) [^1]
+5. Introduction to Computer Hardware and a Guide to Laptop Selection (114 pages)
 
 - Total pages: 600 pages 🙂
 
