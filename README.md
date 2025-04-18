@@ -2,13 +2,13 @@
 A collection of books/documents I have written.
 
 ## Publications
-1. Navigating Privacy Anonymity and Security in the Digital Age (my crowning glory)
+1. Navigating Privacy Anonymity and Security in the Digital Age (**my crowning glory**)
 2. Introduction to Python (360 pages)
 3. Information Security Roadmap
 4. Introduction to Cryptography (120 pages) [^1]
 5. Introduction to Computer Hardware and a Guide to Laptop Selection (114 pages)
 
-- Total pages: 600 pages 🙂
+- Total pages: 800 pages 🙂
 
 ## Donate
 To support my writing, you can make a donation 😃:  
