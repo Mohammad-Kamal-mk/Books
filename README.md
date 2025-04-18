@@ -1,7 +1,7 @@
 # Books (Farsi)
 A collection of books/documents I have written.
 
-## Done!
+## Publications
 1. Navigating Privacy Anonymity and Security in the Digital Age (my crowning glory)
 p, li { white-space: pre-wrap; }
 2. Introduction to Python (360 pages)
@@ -10,11 +10,6 @@ p, li { white-space: pre-wrap; }
 5. Introduction to Computer Hardware and a Guide to Laptop Selection (114 pages)
 
 - Total pages: 600 pages 🙂
-
-## Future Works:
-1. Online Privacy Roadmap
-2. Introduction to GNU/Linux
-3. Introduction to Ponzi Scheme
 
 ## Donate
 To support my writing, you can make a donation 😃:  
