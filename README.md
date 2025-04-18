@@ -3,7 +3,6 @@ A collection of books/documents I have written.
 
 ## Publications
 1. Navigating Privacy Anonymity and Security in the Digital Age (my crowning glory)
-p, li { white-space: pre-wrap; }
 2. Introduction to Python (360 pages)
 3. Information Security Roadmap
 4. Introduction to Cryptography (120 pages) [^1]
