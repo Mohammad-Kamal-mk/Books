@@ -1,6 +1,5 @@
 <h1>License</h1>
-All files are licensed under <strong>Attribution 4.0 International (CC BY 4.0) </strong>:
-https://creativecommons.org/licenses/by/4.0/
+All files are licensed under <strong>CC BY-NC 4.0</strong>:
 
 <h2>Additional Notes: </h2>
 <ol>
